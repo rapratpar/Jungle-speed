@@ -67,3 +67,4 @@ or pass the options
 ```shell
 ./build/JungleSpeedClient 0.0.0.0 9000
 ```
+Project done with: https://github.com/onyxcherry/
